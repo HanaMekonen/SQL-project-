@@ -1,4 +1,4 @@
-Covid 19 Data Exploration
+SQL project on Covid 19 Data Exploration 
 
 AS WHO defined Coronavirus disease 2019 (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus.The first known case was identified in Wuhan, China, in December 2019.
 The disease quickly spread worldwide, resulting in the COVID-19 pandemic. This project present Covid 19 Data Exploration as global and africa level (and also it presents covid 19 data exploration of Etiopia and Eritrea).
